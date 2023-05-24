@@ -1,0 +1,336 @@
+"A human abandoned a curtain in a studio.",curtain,studio,1
+"A human abandoned a shirt in a studio.",studio,shirt,0
+"A clown abandoned an electric bulb in a studio.",electric bulb,studio,1
+"A human abandoned a plate in a garage.",plate,garage,1
+"A human abandoned a fridge in a parking lot.",parking lot,fridge,0
+"An actor abandoned a bowl in a warehouse.",warehouse,bowl,0
+"A human abandoned a notebook in a pond.",notebook,pond,1
+"A clown abandoned a towel in a house.",house,towel,0
+"A ring is arranged in a closet.",ring,closet,1
+"A sandwich is arranged in a pot.",pot,sandwich,0
+"A sheet is arranged in a tractor.",tractor,sheet,0
+"A rose is arranged in a boot.",rose,boot,1
+"A snake is arranged in a van.",snake,van,1
+"A lens is arranged in a crib.",lens,crib,1
+"A piggy bank is arranged in a pond.",pond,piggy bank,0
+"A leaf arrived for you is in a shelf.",shelf,leaf,0
+"A chocolate arrived for you is in a bag.",chocolate,bag,1
+"A sandwich arrived for you is in a rice cooker.",sandwich,rice cooker,1
+"A disk arrived for you is in a teddy bear.",disk,teddy bear,1
+"A worm arrived for you is in a drawer.",drawer,worm,0
+"A pollen arrived for you is in a desk.",desk,pollen,0
+"A vegetable is assembled in a fridge.",fridge,vegetable,0
+"A frog is assembled in a fridge.",frog,fridge,1
+"A rabbit is assembled in a bush.",bush,rabbit,0
+"A ladybug is assembled in a pot.",ladybug,pot,1
+"A blanket is assembled in a sink.",blanket,sink,1
+"A bomb is assembled in a shelf.",bomb,shelf,1
+"A teddy bear is assembled in a drawer.",teddy bear,drawer,1
+"A human boiled a credit card in a pot.",credit card,pot,1
+"An actor boiled a wallet in a pot.",wallet,pot,1
+"An actor boiled a camera in a pot.",pot,camera,0
+"A clown boiled a kitten in a pot.",pot,kitten,0
+"A clown boiled a penny in a pot.",penny,pot,1
+"A human boiled a cigarette in a pot.",cigarette,pot,1
+"A clown boiled a mouse in a pot.",pot,mouse,0
+"A human is buried in a stretcher.",human,stretcher,1
+"A beatle is buried in a rice cooker.",beatle,rice cooker,1
+"A drawer is buried in a tank.",tank,drawer,0
+"A flower is buried in an aquarium.",aquarium,flower,0
+"An actor is captured in a house.",actor,house,1
+"A bee is captured in a car.",car,bee,0
+"A salmon is captured in a ship.",ship,salmon,0
+"A snake is captured in a room.",snake,room,1
+"A kitten is captured in an oven.",oven,kitten,0
+"A butterfly is captured in a pocket.",pocket,butterfly,0
+"A clown cast a butterfly into a stretcher.",stretcher,butterfly,0
+"An actor cast a helmet into a studio.",helmet,studio,1
+"A clown cast a zipper into a pond.",zipper,pond,1
+"A human cast a letter into a tank.",letter,tank,1
+"A bear caught a rock in its mouth.",rock,bear,1
+"A bear caught a pot in its mouth.",bear,pot,0
+"A battery is concentrated in a tank.",tank,battery,0
+"An ice is concentrated in a zipper.",ice,zipper,1
+"A chicken is concentrated in a van.",chicken,van,1
+"A book is concentrated in a helmet.",helmet,book,0
+"A pollen is concentrated in a shirt.",pollen,shirt,1
+"An electric fan is concentrated in a pond.",pond,electric fan,0
+"A keyboard is concentrated in a hive.",keyboard,hive,1
+"I kept a frog confined in a car.",car,frog,0
+"I kept a dog confined in a van.",van,dog,0
+"I kept a kitten confined in a tractor.",tractor,kitten,0
+"I kept a ladybug confined in a warehouse.",ladybug,warehouse,1
+"I kept a frog confined in a desk.",desk,frog,0
+"I kept a flea confined in a file.",flea,file,1
+"I kept a bird confined in a container.",bird,container,1
+"A butterfly crawled into an asylum.",asylum,butterfly,0
+"A frog crawled into a trash can.",trash can,frog,0
+"A bee crawled into a closet.",bee,closet,1
+"A butterfly crawled into a package.",package,butterfly,0
+"A ladybug crawled into a spoon.",ladybug,spoon,1
+"A worm crawled into a crib.",worm,crib,1
+"A snake crushed a potato into small pieces.",snake,potato,0
+"A watermelon crushed a snake into small pieces.",watermelon,snake,0
+"A bag crushed a bomb into small pieces.",bomb,bag,1
+"A bird crushed a photo into small pieces.",bird,photo,0
+"A human deposited a plate in a tank.",plate,tank,1
+"An actor deposited a bear in a pond.",bear,pond,1
+"A human deposited a shirt in a plane.",plane,shirt,0
+"A human deposited a bomb in a teddy bear.",bomb,teddy bear,1
+"An actor deposited a watermelon in an asylum.",asylum,watermelon,0
+"An actor deposited a rabbit in a shelf.",shelf,rabbit,0
+"A clown deposited a phone in a fridge.",fridge,phone,0
+"A human dipped a suitcase in a fridge.",fridge,suitcase,0
+"An actor dipped a biscuit in a fridge.",biscuit,fridge,1
+"A human dipped a book in a fridge.",book,fridge,1
+"A clown dipped a food in a garage.",garage,food,0
+"A clown dipped a bee in a bottle.",bee,bottle,1
+"A human dipped a rabbit in a studio.",rabbit,studio,1
+"A clown watched a ladybug disappear into a ship.",ship,ladybug,0
+"A human watched an ant disappear into a key box.",ant,key box,1
+"A clown watched a worm disappear into a hat.",worm,hat,1
+"An actor watched a mouse disappear into a shelf.",shelf,mouse,0
+"A clown watched an insect disappear into a plane.",plane,insect,0
+"A nail was discovered in a trash can.",nail,trash can,1
+"A teddy bear was discovered in a house.",house,teddy bear,0
+"A box was discovered in a bag.",box,bag,1
+"A dog was displayed in a bag.",bag,dog,0
+"A tobacco was displayed in an envelope.",envelope,tobacco,0
+"A ball was displayed in a pond.",pond,ball,0
+"A shelf was displayed in a fridge.",shelf,fridge,1
+"An actor was dived into a car.",actor,car,1
+"A squirrel was dived into a tank.",squirrel,tank,1
+"A squirrel was dived into a hive.",squirrel,hive,1
+"A squirrel dropped a leaflet into a ship.",ship,leaflet,0
+"A human dropped a key box into a ship.",ship,key box,0
+"A human dropped a dish into an aquarium.",dish,aquarium,1
+"A bear dropped a coin into a room.",room,coin,0
+"A monkey dropped a rose into a fridge.",rose,fridge,1
+"A rabbit dropped an key into a mouth.",key,mouth,1
+"A monkey dumped a vegetable in a rice cooker.",rice cooker,vegetable,0
+"An actor dumped an insect in a bus.",bus,insect,0
+"A squirrel dumped a cat in a plane.",cat,plane,1
+"A person dumped a sandwich in a burrow.",sandwich,burrow,1
+"A bear dumped a camera in a tank.",camera,tank,1
+"A rabbit dumped a chocolate in a box.",chocolate,box,1
+"A clown dumped a sandwich in a van.",van,sandwich,0
+"A dog entered into a tank.",dog,tank,1
+"An ant entered into a helmet.",ant,helmet,1
+"A rhinoceros entered into a studio.",rhinoceros,studio,1
+"A mouse entered into a closet.",closet,mouse,0
+"A salmon entered into a desk.",desk,salmon,0
+"A flea is farmed in a shelf.",flea,shelf,1
+"A dog is farmed in a shelf.",dog,shelf,1
+"A bee is farmed in a jar.",jar,bee,0
+"A squirrel is farmed in a refrigerator.",refrigerator,squirrel,0
+"A human is farmed in a shelf.",shelf,human,0
+"A diamond fits in a file.",file,diamond,0
+"A wallet fits in a rice cooker.",rice cooker,wallet,0
+"A photo fits in a helmet.",photo,helmet,1
+"A sandwich fits in a crib.",crib,sandwich,0
+"A ladybug fits in a teddy bear.",ladybug,teddy bear,1
+"A smartphone fits in a zipper.",smartphone,zipper,1
+"A zipper floats in a piggy bank.",piggy bank,zipper,0
+"A diamond floats in a plane.",plane,diamond,0
+"A pencil floats in a zipper.",pencil,zipper,1
+"A penny floats in a file.",file,penny,0
+"A snake floats in a drawer.",snake,drawer,1
+"A watch floats in a nest.",nest,watch,0
+"A ladybug flied into a jar.",ladybug,jar,1
+"A bird flied into an asylum.",bird,asylum,1
+"A bird flied into a hive.",bird,hive,1
+"A beatle flied into a rice cooker.",rice cooker,beatle,0
+"A beatle flied into a bird's beak.",bird's beak,beatle,0
+"A monkey gently folded a potato in a pot.",potato,pot,1
+"A rabbit gently folded a jelly in a balloon.",jelly,balloon,1
+"A clown gently folded a mouse in a boot.",mouse,boot,1
+"A rabbit gently folded a chocolate in a container.",container,chocolate,0
+"A squirrel gently folded a flower in a tank.",tank,flower,0
+"A human gently folded a battery in a bush.",bush,battery,0
+"A clown found a snake in a bush.",bush,snake,0
+"An actor found a wallet in a piggy bank.",piggy bank,wallet,0
+"An actor found a towel in a pocket.",towel,pocket,1
+"An actor found a piggy bank in a boot.",boot,piggy bank,0
+"A clown found a smartphone in a pocket.",pocket,smartphone,0
+"An actor found a candy in a desk.",desk,candy,0
+"An actor found a bracelet in a trash can.",trash can,bracelet,0
+"A plant grew in a hat.",plant,hat,1
+"A plant grew in a suitcase.",plant,suitcase,1
+"A plant grew in a ship.",plant,ship,1
+"A plant grew in a tractor.",tractor,plant,0
+"A plant grew in a bag.",plant,bag,1
+"A plant grew in a box.",box,plant,0
+"A plant grew in a jar.",jar,plant,0
+"A plant grew in a balloon.",plant,balloon,1
+"A bee is hidden in a studio.",studio,bee,0
+"A trash can is hidden in a pond.",trash can,pond,1
+"A suitcase is hidden in a plane.",plane,suitcase,0
+"An envelope is hidden in an oven.",envelope,oven,1
+"A flag is hidden in a shelf.",shelf,flag,0
+"A fish is hidden in a studio.",studio,fish,0
+"A zipper is hidden in a box.",box,zipper,0
+"A ladybug is hidden in a container.",container,ladybug,0
+"A human is imprisoned in a plane.",plane,human,0
+"A bee is imprisoned in a piano.",bee,piano,1
+"A beatle is imprisoned in a studio.",beatle,studio,1
+"A butterfly is imprisoned in a warehouse.",butterfly,warehouse,1
+"A monkey inserted a ticket into a bag.",bag,ticket,0
+"A human inserted a mug into a chicken.",chicken,mug,0
+"A monkey inserted a refrigerator into a van.",van,refrigerator,0
+"An insect is isolated in an ambulance.",insect,ambulance,1
+"A human is isolated in a house.",human,house,1
+"An ant is isolated in a shirt.",shirt,ant,0
+"A ladybug is isolated in a studio.",studio,ladybug,0
+"A kitten is isolated in a box.",box,kitten,0
+"An insect is isolated in a closet.",closet,insect,0
+"A frog is isolated in a bus.",frog,bus,1
+"A butterfly is isolated in a key box.",butterfly,key box,1
+"I kept a battery in a van.",battery,van,1
+"I kept a pollen in a zipper.",pollen,zipper,1
+"I kept a penny in a mug.",mug,penny,0
+"I kept a lens in a teddy bear.",teddy bear,lens,0
+"I kept a candle in a bin.",candle,bin,1
+"I kept a phone in a mug.",mug,phone,0
+"I kept a towel in a bag.",bag,towel,0
+"I've left a box in a ship.",ship,box,0
+"I've left an ice in a container.",container,ice,0
+"I've left a book in a house.",house,book,0
+"I've left a credit card in a bowl.",credit card,bowl,1
+"I've left a boot in a desk.",desk,boot,0
+"I've left a credit card in a nest.",credit card,nest,1
+"I've left a frisbee in an envelope.",frisbee,envelope,1
+"A squirrel lay in a burrow.",squirrel,burrow,1
+"A clown lay in an asylum.",asylum,clown,0
+"A bear lay in a house.",bear,house,1
+"A rabbit lay in a tank.",tank,rabbit,0
+"A person lay in a warehouse.",warehouse,person,0
+"A squirrel lived in an aircraft.",squirrel,aircraft,1
+"A snake lived in a shirt.",snake,shirt,1
+"A bee lived in a bowl.",bee,bowl,1
+"A clown located a ring into a suitcase.",ring,suitcase,1
+"A clown located a dish into a stretcher.",stretcher,dish,0
+"A clown located a spider into an aircraft.",spider,aircraft,1
+"A clown located a bracelet into a tractor.",tractor,bracelet,0
+"She locked a battery in a suitcase.",suitcase,battery,0
+"She locked a sheet in a pond.",pond,sheet,0
+"She locked a biscuit in a package.",biscuit,package,1
+"She locked a squirrel in a sink.",sink,squirrel,0
+"She locked a bed in a container.",bed,container,1
+"She locked a smartphone in a pot.",pot,smartphone,0
+"She locked a spoon in a trash can.",spoon,trash can,1
+"An actor got married in a church which is built in an asylum.",asylum,actor,0
+"An actor got married in a church which is built in a container.",actor,container,1
+"A clown got married in a church which is built in a closet.",closet,clown,0
+"I moved a printer in a garage.",garage,printer,0
+"I moved a banana in an asylum.",asylum,banana,0
+"I moved a brush in a refrigerator.",refrigerator,brush,0
+"I moved a bag in a piano.",piano,bag,0
+"I packed a glove into a pond.",pond,glove,0
+"I packed a penny into a pond.",penny,pond,1
+"I packed a sack into a bush.",bush,sack,0
+"I packed a credit card into a pond.",pond,credit card,0
+"I packed a pollen into an envelope.",envelope,pollen,0
+"I packed a jar into a suitcase.",suitcase,jar,0
+"I packed a leaf into a garage.",garage,leaf,0
+"A tobacco is packaged in a warehouse.",tobacco,warehouse,1
+"A spider is packaged in a desk.",desk,spider,0
+"A pot is packaged in a studio.",studio,pot,0
+"A snake is packaged in a shelf.",shelf,snake,0
+"A marble is packaged in a van.",van,marble,0
+"A CD is packaged in a plane.",plane,CD,0
+"A bee is placed in a sink.",sink,bee,0
+"A gun is placed in a hive.",hive,gun,0
+"An electric bulb is placed in a mouth.",electric bulb,mouth,1
+"A marble is placed in a closet.",marble,closet,1
+"A brush is placed in an envelope.",envelope,brush,0
+"A sandwich is placed in a rice cooker.",rice cooker,sandwich,0
+"A person is placed in a garage.",garage,person,0
+"An actor is playing with a ball in a refrigerator.",actor,refrigerator,1
+"An actor is playing with a ball in a closet.",closet,actor,0
+"A human is playing with a ball in a fridge.",fridge,human,0
+"A candy is placed in a pot.",pot,candy,0
+"A handkerchief is placed in a burrow.",handkerchief,burrow,1
+"A bracelet is placed in an egg.",bracelet,egg,1
+"A box is placed in an aircraft.",aircraft,box,0
+"A banana is placed in a fridge.",banana,fridge,1
+"A bomb is placed in a fridge.",bomb,fridge,1
+"A letter is placed in a tank.",letter,tank,1
+"An apple is preserved in a bird's beak.",bird's beak,apple,0
+"A knife is preserved in a tank.",tank,knife,0
+"A bomb is preserved in a burrow.",burrow,bomb,0
+"A brush is preserved in a bag.",bag,brush,0
+"A bomb is preserved in a refrigerator.",refrigerator,bomb,0
+"I purchased a bracelet which is placed in a desk.",desk,bracelet,0
+"I purchased a handkerchief which is placed in a box.",handkerchief,box,1
+"I purchased a key box which is placed in a file.",file,key box,0
+"I purchased a table which is placed in a refrigerator.",refrigerator,table,0
+"I purchased a package which is placed in a garage.",garage,package,0
+"I purchased a bird which is placed in a container.",container,bird,0
+"He pushed a keyboard into a refrigerator.",keyboard,refrigerator,1
+"He pushed a pan into an aircraft.",pan,aircraft,1
+"He pushed a phone into a hive.",hive,phone,0
+"He pushed a fridge into a van.",van,fridge,0
+"He pushed a tobacco into a studio.",tobacco,studio,1
+"He pushed a ruler into a garage.",garage,ruler,0
+"He pushed a suitcase into a refrigerator.",refrigerator,suitcase,0
+"A rabbit put a cigarette into a bird's beak.",cigarette,bird's beak,1
+"A human put a receipt into a pot.",receipt,pot,1
+"A rabbit put a pan into a desk.",pan,desk,1
+"An actor put a key box into a hat.",key box,hat,1
+"A clown put a human into a warehouse.",warehouse,human,0
+"A clown put a snake into a home.",snake,home,1
+"A ladybug is resting in a drawer.",ladybug,drawer,1
+"A rabbit is resting in a refrigerator.",rabbit,refrigerator,1
+"A worm is resting in a box.",worm,box,1
+"A bee is resting in a piano.",bee,piano,1
+"A kitten is resting in a shelf.",kitten,shelf,1
+"An insect is resting in a studio.",insect,studio,1
+"A flea is resting in a pot.",flea,pot,1
+"A chicken is resting in an aircraft.",chicken,aircraft,1
+"A clown slided a flower into a hat.",flower,hat,1
+"A clown slided a hat into a rice cooker.",hat,rice cooker,1
+"A clown slided a flea into a mug.",mug,flea,0
+"An actor slided an insect into a rice cooker.",rice cooker,insect,0
+"A human slided a sandwich into a bag.",bag,sandwich,0
+"A clown slapped a shirt into an ambulance.",shirt,ambulance,1
+"An actor slapped a leaf into an ambulance.",ambulance,leaf,0
+"An actor slapped a dish into a box.",dish,box,1
+"We managed to squeeze a wallet into a bottle.",bottle,wallet,0
+"We managed to squeeze a blanket into an oven.",blanket,oven,1
+"We managed to squeeze a photo into a file.",photo,file,1
+"We managed to squeeze a refrigerator into a plane.",plane,refrigerator,0
+"We managed to squeeze a box into a piano.",box,piano,1
+"We managed to squeeze a chicken into a van.",chicken,van,1
+"An actor stared a needle in a pond.",pond,needle,0
+"A human stared a tobacco in a shelf.",shelf,tobacco,0
+"A human stared a notebook in a studio.",notebook,studio,1
+"An actor stared a handkerchief in a boot.",handkerchief,boot,1
+"An actor stuck a needle into a package.",package,needle,0
+"A human stuck a needle into a bottle.",needle,bottle,1
+"A clown stuck a needle into a ticket.",ticket,needle,0
+"A human stuck a needle into a boot.",needle,boot,1
+"A clown stuck a needle into an elephant.",needle,elephant,1
+"A human stuck a needle into a CD.",CD,needle,0
+"A human stuck a needle into a bag.",bag,needle,0
+"A clown stuck a frisbee into a balloon.",balloon,frisbee,0
+"A clown stuck an eraser into a plane.",plane,eraser,0
+"An actor stuck a flea into a shelf.",flea,shelf,1
+"An actor stuck a salmon into a package.",package,salmon,0
+"An actor stuck a watch into a bottle.",watch,bottle,1
+"A human stored a bacteria in a tractor.",bacteria,tractor,1
+"A clown stored a biscuit in a drawer.",biscuit,drawer,1
+"A clown stored a sack in a refrigerator.",refrigerator,sack,0
+"An actor stored a ladybug in a bowl.",bowl,ladybug,0
+"A human stored a battery in a bag.",bag,battery,0
+"An actor stored a frisbee in a house.",frisbee,house,1
+"A bird was trapped into an aquarium.",bird,aquarium,1
+"A mouse was trapped into a refrigerator.",mouse,refrigerator,1
+"A cat was trapped into a helmet.",helmet,cat,0
+"A human was trapped into a fridge.",fridge,human,0
+"A mouse was trapped into a key box.",key box,mouse,0
+"A rabbit was trapped into a sink.",sink,rabbit,0
+"A ladybug was trapped into a key box.",ladybug,key box,1
+"A chocolate is wrapped up in a hand.",hand,chocolate,0
+"A credit card is wrapped up in a frisbee.",credit card,frisbee,1
+"A squirrel is wrapped up in a keyboard.",keyboard,squirrel,0
+"An eraser is wrapped up in a CD.",eraser,CD,1

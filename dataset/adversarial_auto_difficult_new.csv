@@ -1,0 +1,179 @@
+"A hat now accommodates a stretcher.",hat,stretcher,0
+"An oven now accommodates a rice cooker.",oven,rice cooker,0
+"A burrow now accommodates a person.",person,burrow,1
+"A bin now accommodates a table.",bin,table,0
+"A towel adheres to the surface of a credit card.",towel,credit card,1
+"A suitcase adheres to the surface of a chicken.",chicken,suitcase,0
+"A helmet adheres to the surface of a ring.",ring,helmet,0
+"A spider adheres to the surface of a teeth.",spider,teeth,1
+"A bird is appeared from a bottle.",bottle,bird,0
+"A clown is appeared from a box.",box,clown,0
+"I attached a tractor on a file.",tractor,file,1
+"I attached a ruler on a jelly.",jelly,ruler,0
+"I attached a tank on an apple.",tank,apple,1
+"A clown batted a refrigerator away.",clown,refrigerator,0
+"A clown bearing a plane for gifts.",clown,plane,0
+"A person breached a surface of a mouth.",mouth,person,0
+"A clown breached a surface of a rice cooker.",clown,rice cooker,1
+"A clown breached a surface of a balloon.",clown,balloon,1
+"A monkey breached a surface of a box.",monkey,box,1
+"A bear breached a surface of a monitor.",monitor,bear,0
+"An actor breached a surface of an envelope.",envelope,actor,0
+"A person breached a surface of a television.",person,television,1
+"A monkey breached a surface of a hive.",hive,monkey,0
+"A piggy bank broke under the weight of a gun.",gun,piggy bank,1
+"A rabbit brought a teddy bear by hand.",rabbit,teddy bear,0
+"A person captured an elephant by hand.",elephant,person,1
+"A rabbit captured a dog.",rabbit,dog,0
+"A squirrel captured a cattle.",squirrel,cattle,0
+"A rabbit was carrying a person.",person,rabbit,1
+"A human chopped a cat on a leaf.",cat,leaf,1
+"A human chopped a person on a comic.",comic,person,0
+"A blanket concealed a sheet.",sheet,blanket,1
+"A CD concealed a chicken.",chicken,CD,1
+"A mouth contains a cattle.",cattle,mouth,1
+"A zipper contains a CD.",zipper,CD,0
+"A bowl contains a car.",bowl,car,0
+"A piggy bank contains a plate.",piggy bank,plate,0
+"I covered a dish with a handkerchief.",dish,handkerchief,1
+"I covered a CD with a handkerchief.",handkerchief,CD,0
+"I covered a pot with a handkerchief.",pot,handkerchief,1
+"I covered a box with a frisbee.",box,frisbee,1
+"I covered an ambulance with a frisbee.",frisbee,ambulance,0
+"I covered a pocket with a file.",pocket,file,1
+"A pan covered an actor.",pan,actor,0
+"A towel covered a balloon.",towel,balloon,0
+"A keyboard covered a sack.",keyboard,sack,0
+"A leaf covered a teddy bear.",leaf,teddy bear,0
+"A leaflet covered a bomb.",leaflet,bomb,0
+"A burrow is covered with a flag.",flag,burrow,0
+"A couch is covered with a hand.",hand,couch,0
+"A toy is covered with a file.",toy,file,1
+"A canvas is covered with a file.",canvas,file,1
+"A rabbit crossed a towel.",towel,rabbit,0
+"A human crossed a newspaper.",newspaper,human,0
+"A frog crossed a hand.",hand,frog,0
+"A bear crossed a sheet.",sheet,bear,0
+"A human crossed a leaflet.",human,leaflet,1
+"A bike cruised a blanket.",bike,blanket,1
+"An aircraft cruised a leaflet.",leaflet,aircraft,0
+"A tank cruised a leaf.",leaf,tank,0
+"A tank cruised a leaf.",leaf,tank,0
+"A bicycle cruised an envelope.",bicycle,envelope,1
+"A tank cruised a CD.",CD,tank,0
+"A bike cruised a keyboard.",keyboard,bike,0
+"An ambulance cruised a keyboard.",ambulance,keyboard,1
+"A rabbit delivered a snake with all his force.",rabbit,snake,0
+"She deposited a piano on a spoon.",spoon,piano,0
+"She deposited a television on a mouth.",television,mouth,1
+"A letter is littered with a suitcase.",letter,suitcase,0
+"A pan is littered with a drawer.",pan,drawer,0
+"A newspaper is littered with a table.",newspaper,table,0
+"A frisbee is littered with an actor.",frisbee,actor,0
+"Police discovered a bike while searching a bird's beak.",bike,bird's beak,1
+"Police discovered a parking lot while searching a desk.",desk,parking lot,0
+"A human drew a book out of a jar.",book,jar,1
+"A rabbit elevated a tank manually.",rabbit,tank,0
+"An actor elevated a person manually.",person,actor,1
+"A drawer is elminated from a fridge.",drawer,fridge,1
+"A clown emerged from a bowl.",clown,bowl,1
+"A rabbit emerged from a spoon.",rabbit,spoon,1
+"A monkey emerged from a piggy bank.",monkey,piggy bank,1
+"I emptied a stretcher out of an envelope.",stretcher,envelope,1
+"I emptied a printer out of a bag.",printer,bag,1
+"I emptied a CD out of an electric bulb.",electric bulb,CD,0
+"A sandwich entered a thumb.",sandwich,thumb,1
+"A wallet entered an key.",wallet,key,1
+"A snake entered a disk.",snake,disk,1
+"A photo entered a leaf.",leaf,photo,0
+"A plane entered a car.",car,plane,0
+"A person has escaped from a balloon.",balloon,person,0
+"An elephant has escaped from an aquarium.",aquarium,elephant,0
+"A human is evacuated from a piggy bank.",piggy bank,human,0
+"A human is evacuated from a bottle.",bottle,human,0
+"An actor is evacuated from a bin.",bin,actor,0
+"A human is evacuated from a bag.",human,bag,1
+"A human is evacuated from an aquarium.",human,aquarium,1
+"A clown is evacuated from a rice cooker.",clown,rice cooker,1
+"An actor is evacuated from a bag.",bag,actor,0
+"A monkey extracted a curtain from a rice cooker.",curtain,rice cooker,1
+"A monkey extracted a towel from an egg.",egg,towel,0
+"An actor extracted a bear from a sink.",sink,bear,0
+"A rose fills a bin.",bin,rose,0
+"A sink is filled with a fridge.",fridge,sink,1
+"An envelope is filled with a ball.",ball,envelope,1
+"A boot is filled with a bear.",boot,bear,0
+"A spoon is fitted with a kitten.",kitten,spoon,1
+"A trash can is fitted with a bear.",bear,trash can,1
+"An egg is fitted with a biscuit.",biscuit,egg,1
+"A person fleed from a nest.",person,nest,1
+"A dog fleed from a bottle.",dog,bottle,1
+"A bear fleed from a burrow.",bear,burrow,1
+"A cattle fleed from a mouth.",mouth,cattle,0
+"A clown gathered a stretcher and left.",stretcher,clown,1
+"A rabbit grasped a nest.",nest,rabbit,1
+"A monkey grabbed a desk.",monkey,desk,0
+"A rabbit handed a refrigerator to me.",refrigerator,rabbit,1
+"A clown is hid under a sheet completely.",clown,sheet,1
+"A bear is hid under a CD completely.",CD,bear,0
+"A dog is hid under a sheet completely.",sheet,dog,0
+"Inside a key box was a comic.",key box,comic,0
+"Inside an egg was a refrigerator.",egg,refrigerator,0
+"A plane landed on a stretcher.",plane,stretcher,1
+"I laid a crib on a towel.",crib,towel,1
+"I laid a shirt on a frisbee.",frisbee,shirt,0
+"A squirrel lifted a shirt.",squirrel,shirt,0
+"A rabbit lifted a fridge out of a helmet.",fridge,helmet,1
+"A human lifted a handkerchief out of an electric bulb.",electric bulb,handkerchief,0
+"A rabbit lifted a desk out of a bird's beak.",desk,bird's beak,1
+"A squirrel lifted a tractor out of a key box.",key box,tractor,0
+"He had been lifting a camera from an egg.",egg,camera,0
+"He had been lifting a comic from a file.",comic,file,1
+"He had been lifting a package from an envelope.",envelope,package,0
+"He had been lifting an apple from a wallet.",wallet,apple,0
+"He had been lifting a brush from a mouth.",mouth,brush,0
+"An ambulance is occupied by a bus.",bus,ambulance,1
+"A stretcher occupied almost all of a crib.",stretcher,crib,1
+"A table occupied almost all of an envelope.",envelope,table,0
+"I packed a key box with a printer.",printer,key box,1
+"I painted a bed on a canvas for me.",bed,canvas,1
+"I painted a tank on a canvas for me.",tank,canvas,1
+"I painted a desk on a canvas for me.",desk,canvas,1
+"I painted a studio on a canvas for me.",canvas,studio,0
+"A human passed a fridge to me.",human,fridge,0
+"An actor picked a trash can from an envelope.",envelope,trash can,0
+"An actor picked a bike from a balloon.",bike,balloon,1
+"An actor picked a tractor from a stretcher.",stretcher,tractor,0
+"A human picked a bowl from an egg.",bowl,egg,1
+"An actor picked a piano from a pocket.",pocket,piano,0
+"A human pinned a credit card on a cigarette.",credit card,cigarette,1
+"An actor pinned a drawer on a pencil.",drawer,pencil,1
+"A package is placed on an album.",album,package,0
+"A person is placed on an album.",album,person,0
+"A bike is placed on a leaf.",leaf,bike,0
+"A clown post a stretcher through a key box.",key box,stretcher,0
+"A human post a crib through a key box.",key box,crib,0
+"A human post an electric fan through a key box.",key box,electric fan,0
+"A clown post an oven through a key box.",key box,oven,0
+"An actor post a bag through a key box.",key box,bag,0
+"An actor post a plane through a key box.",key box,plane,0
+"He reached inside a suitcase for a bike.",suitcase,bike,0
+"He reached inside a glove for a shelf.",glove,shelf,0
+"He reached inside a bowl for a bike.",bowl,bike,0
+"He reached inside a boot for a radio.",radio,boot,1
+"I released a cattle from a pocket.",cattle,pocket,1
+"I released a dog from a pot.",dog,pot,1
+"A clown sets a printer on an album.",album,printer,0
+"A clown sets a fridge on a newspaper.",newspaper,fridge,0
+"An actor sets a nest on a sink.",nest,sink,1
+"A glove is stuffed full of a shelf.",glove,shelf,0
+"A worm sucked a badge.",badge,worm,1
+"An ant sucked a squirrel.",ant,squirrel,0
+"A ladybug sucked a disk.",disk,ladybug,1
+"A ladybug has swallowed a butterfly.",ladybug,butterfly,0
+"A ladybug has swallowed a canvas.",ladybug,canvas,0
+"An ant has swallowed a banana.",ant,banana,0
+"A cat has swallowed a bed.",bed,cat,1
+"A frog has swallowed a drawer.",drawer,frog,1
+"An actor threw a bed easily.",bed,actor,1
+"A human whipped out a closet.",closet,human,1
